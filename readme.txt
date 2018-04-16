@@ -1,4 +1,8 @@
 可以按照以下步骤来部署和运行程序:
+根目录：/Users/yuxuefeng/github/php/yaf/public
+域名：yaf.dev.com
+
+
 1.请确保机器yuxuefeng@yuxuefengdeMacBook-Pro.local已经安装了Yaf框架, 并且已经加载入PHP;
 2.把sample目录Copy到Webserver的DocumentRoot目录下;
 3.需要在php.ini里面启用如下配置，生产的代码才能正确运行：
